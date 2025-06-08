@@ -18,6 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=samirmad01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[text](<Samir_Kumar_Singh_resume (3).pdf>)
+[Resume : ](<Samir_Kumar_Singh_resume (3).pdf>)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
